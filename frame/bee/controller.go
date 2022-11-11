@@ -1,10 +1,10 @@
 package bee
 
 import (
+	"constant"
 	"github.com/beego/beego/v2/server/web"
 	"github.com/gookit/validate"
-	"halo-admin-go/constant"
-	"halo-admin-go/types"
+	"types"
 )
 
 // Controller 基准控制器
